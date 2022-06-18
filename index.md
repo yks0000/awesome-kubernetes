@@ -11,6 +11,10 @@ tags: ["Kubernetes", "Tools"]
 categories: ["Technical", "Kubernetes"]
 ---
 
+{{< alert type="info" >}}
+  Please contribute to this page on [yks0000/awesome-kubernetes](https://github.com/yks0000/awesome-kubernetes/blob/master/index.md)
+{{< /alert >}}
+
 ## List of Awesome Lists
 
 ### PDF
