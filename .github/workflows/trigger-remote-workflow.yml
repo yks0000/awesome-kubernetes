@@ -1,0 +1,17 @@
+name: Trigger Update to yks0000/yogeshsharma.me
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: trigger-remote-sync
+    runs-on: ubuntu-latest
+    steps:
+      - uses: convictional/trigger-workflow-and-wait@v1.3.0
+        with:
+          owner: yks0000
+          repo: yogeshsharma.me
+          github_token: ${{ secrets.G_ACCESS_TOKEN }}
+          workflow_file_name: master.yml
