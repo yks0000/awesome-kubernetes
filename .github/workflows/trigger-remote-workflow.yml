@@ -1,15 +1,14 @@
-name: Trigger Update to yks0000/yogeshsharma.me
+name: awesome-kuberenetes-workflows
 on:
   push:
     branches: [ "master" ]
-  workflow_dispatch:
 
 jobs:
   build:
-    name: trigger-remote-sync
+    name: trigger remote sync to yks0000/yogeshsharma.me
     runs-on: ubuntu-latest
     steps:
-      - uses: convictional/trigger-workflow-and-wait@v1.3.0
+      - uses: convictional/trigger-workflow-and-wait@v1.6.3
         with:
           owner: yks0000
           repo: yogeshsharma.me
