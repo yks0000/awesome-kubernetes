@@ -6,4 +6,4 @@
 4. Open a pull request to master branch.
 5. Once merged, changes will be published.
 
-Content of [index.md](index.md) is rendered to html on [this website](https://yogeshsharma.me/posts/kubernetes/awesome-kubernetes/).
+**This file is published [here](https://yogeshsharma.me/posts/kubernetes/awesome-kubernetes/).**
