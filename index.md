@@ -1,10 +1,10 @@
 ---
-title: "Awesome Kubernetes - 2"
+title: "Awesome Kubernetes"
 date: 2022-06-18T11:00:20+05:30
 menu:
   sidebar:
-    name: "Awesome Kubernetes - 2"
-    identifier: awesome-kubernetes-s
+    name: "Awesome Kubernetes Resources"
+    identifier: awesome-kubernetes
     parent: k8s-blogs
     weight: 10
 tags: ["Kubernetes", "Tools"]
