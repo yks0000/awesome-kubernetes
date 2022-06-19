@@ -21,7 +21,7 @@ categories: ["Technical", "Kubernetes"]
 
 ### PDF
 
-1. [Awesome kubernetes tools and resources by datree.io](Awesome_Kubernetes_Resources.pdf)
+1. [Awesome kubernetes tools and resources by datree.io](files/Awesome_Kubernetes_Resources.pdf)
 
 ### External Links (GitHub or Other websites)
 
