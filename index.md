@@ -12,7 +12,7 @@ categories: ["Technical", "Kubernetes"]
 ---
 
 {{< alert type="info" >}}
-  Click here to [Star, Improve or add to this page](https://github.com/yks0000/awesome-kubernetes)
+  Click here to [star, improve or add to this page](https://github.com/yks0000/awesome-kubernetes)
 {{< /alert >}}
 
 ---
