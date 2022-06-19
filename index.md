@@ -1,10 +1,10 @@
 ---
-title: "Awesome Kubernetes"
+title: "Awesome Kubernetes - 2"
 date: 2022-06-18T11:00:20+05:30
 menu:
   sidebar:
-    name: "Awesome Kubernetes"
-    identifier: awesome-kubernetes
+    name: "Awesome Kubernetes - 2"
+    identifier: awesome-kubernetes-s
     parent: k8s-blogs
     weight: 10
 tags: ["Kubernetes", "Tools"]
@@ -15,11 +15,13 @@ categories: ["Technical", "Kubernetes"]
   Click here to [Improve or add to this page](https://github.com/yks0000/awesome-kubernetes/blob/master/index.md)
 {{< /alert >}}
 
+---
+
 ## List of Awesome Lists
 
 ### PDF
 
-1. [Awesome kubernetes tools and resources by datree.io](Awesome_Kubernetes_Resources_1654024565.pdf)
+1. [Awesome kubernetes tools and resources by datree.io](Awesome_Kubernetes_Resources.pdf)
 
 ### External Links (GitHub or Other websites)
 
